@@ -1,3 +1,2 @@
 # fun
-stronka zrobiona przeze mnie for fun
-zajebiscie fajna
+stronka zrobiona for fun
